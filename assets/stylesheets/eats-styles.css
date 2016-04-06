@@ -1,0 +1,20 @@
+li  {
+	color: blue;
+}
+
+.fave{color: orange;}
+
+
+
+#content {
+  width: 600px;
+  background: #fff;
+  border: 10px dashed fuchsia;
+  padding: 15px 10px 20px 5px; /* T: 15px, R: 10px, B: 20px, L: 5px*/
+  margin: 20px auto 5px;  /* T: 20px, R: auto, B: 5px, L: auto */
+}
+
+img{
+  width: 100px;
+  float: left;
+}
